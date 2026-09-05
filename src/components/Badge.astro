@@ -1,0 +1,38 @@
+---
+/**
+ * Badge.astro
+ * Selo visual para classificar a "temperatura" espiritual de uma erva
+ * ou o tipo de aviso de segurança em rituais.
+ *
+ * Uso dentro de um artigo .mdx:
+ *
+ *   import Badge from '../../../components/Badge.astro';
+ *
+ *   <Badge tipo="quente" />
+ *   <Badge tipo="morna" />
+ *   <Badge tipo="fria" label="Erva Fria — uso livre" />
+ */
+interface Props {
+  tipo: 'quente' | 'morna' | 'fria';
+  label?: string;
+}
+
+const { tipo, label } = Astro.props;
+
+const icones: Record<Props['tipo'], string> = {
+  quente: '🔥',
+  morna: '🌤️',
+  fria: '💧',
+};
+
+const textos: Record<Props['tipo'], string> = {
+  quente: 'Erva Quente',
+  morna: 'Erva Morna',
+  fria: 'Erva Fria',
+};
+---
+
+<span class={`turg-badge turg-badge--${tipo}`}>
+  <span aria-hidden="true">{icones[tipo]}</span>
+  {label ?? textos[tipo]}
+</span>

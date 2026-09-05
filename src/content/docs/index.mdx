@@ -1,0 +1,42 @@
+---
+title: "TURG Wiki — Acervo Digital"
+description: "Base de conhecimento do Templo de Umbanda Caboclo Rompe Mato e Pai Guiné."
+template: splash
+hero:
+  tagline: Acervo Digital do Templo de Umbanda Caboclo Rompe Mato e Pai Guiné
+  actions:
+    - text: Buscar na Wiki
+      link: '#'
+      icon: right-arrow
+      variant: primary
+    - text: Ver Ervas e Banhos
+      link: /ervas-e-banhos/guine/
+      icon: right-arrow
+      variant: minimal
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+Bem-vindo(a) à base de conhecimento do **TURG**. Este acervo reúne, de forma organizada e
+de fácil consulta pelo celular, o conteúdo sobre Orixás, Entidades, Ervas e Banhos,
+Rituais e Doutrina da nossa casa.
+
+<CardGrid stagger>
+	<Card title="Orixás" icon="star">
+		Fundamentos, qualidades e regência dos Orixás cultuados no terreiro.
+	</Card>
+	<Card title="Entidades" icon="add-document">
+		Linhas de Caboclos e Pretos-Velhos, suas histórias e formas de trabalho.
+	</Card>
+	<Card title="Ervas e Banhos" icon="seti:sass">
+		Propriedades espirituais, classificação (quente/morna/fria) e modo de preparo.
+	</Card>
+	<Card title="Rituais e Doutrina" icon="open-book">
+		Fundamentos da casa: amaci, conduta, giras e demais orientações.
+	</Card>
+</CardGrid>
+
+:::note[Sobre a edição]
+Este acervo é de curadoria única — a edição é feita exclusivamente pelo
+administrador/desenvolvedor da casa, garantindo consistência doutrinária do conteúdo.
+:::

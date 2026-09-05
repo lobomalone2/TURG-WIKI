@@ -1,0 +1,32 @@
+---
+/**
+ * Callout.astro
+ * Caixa de destaque com estilo "pergaminho" para observações,
+ * fundamentos ou avisos que não se encaixam nos asides padrão
+ * do Starlight (:::caution, :::tip, :::note).
+ *
+ * Uso dentro de um artigo .mdx:
+ *
+ *   import Callout from '../../../components/Callout.astro';
+ *
+ *   <Callout titulo="Fundamento" icone="🕯️">
+ *     Conteúdo do destaque aqui.
+ *   </Callout>
+ */
+interface Props {
+  titulo: string;
+  icone?: string;
+}
+
+const { titulo, icone = '📜' } = Astro.props;
+---
+
+<div class="turg-callout">
+  <p class="turg-callout__title">
+    <span aria-hidden="true">{icone}</span>
+    {titulo}
+  </p>
+  <div class="turg-callout__body">
+    <slot />
+  </div>
+</div>

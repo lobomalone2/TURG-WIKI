@@ -1,0 +1,186 @@
+/* ============================================================
+   TURG WIKI — Identidade Visual
+   Baseado na logomarca oficial (estilo pergaminho antigo,
+   ilustrações clássicas de Preto Velho e Caboclo)
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600&family=Source+Sans+3:wght@400;500;600&display=swap');
+
+:root {
+  /* Paleta — Modo Claro */
+  --turg-bg-geral: #faf7f2;              /* Fundo geral (off-white) */
+  --turg-bg-pergaminho: #f3ebe0;         /* Fundo de cards/destaques */
+  --turg-bg-pergaminho-alt: #e8dec8;     /* Variante mais escura do pergaminho */
+  --turg-texto: #2a1a08;                 /* Marrom/café profundo (nanquim/xilogravura) */
+  --turg-mata: #3a5a40;                  /* Verde fechado ritualístico */
+  --turg-axe: #c89b3c;                   /* Dourado envelhecido / terracota (acento) */
+
+  /* Tipografia */
+  --turg-font-titulos: 'Cinzel', 'Cormorant Garamond', serif;
+  --turg-font-corpo: 'Inter', 'Source Sans 3', sans-serif;
+
+  /* Mapeamento para variáveis do Starlight — Modo Claro */
+  --sl-color-bg: var(--turg-bg-geral);
+  --sl-color-bg-nav: var(--turg-bg-pergaminho);
+  --sl-color-bg-sidebar: var(--turg-bg-pergaminho);
+  --sl-color-bg-inline-code: var(--turg-bg-pergaminho-alt);
+  --sl-color-text: var(--turg-texto);
+  --sl-color-text-accent: var(--turg-axe);
+  --sl-color-white: var(--turg-texto);
+  --sl-color-accent: var(--turg-axe);
+  --sl-color-accent-high: #8a6a20;
+  --sl-color-accent-low: #f0e3c4;
+  --sl-color-hairline: #d8c9a8;
+  --sl-color-hairline-light: #e4d8bc;
+  --sl-color-hairline-shade: #cbb98e;
+}
+
+/* Modo Escuro */
+:root[data-theme='dark'] {
+  --sl-color-bg: #161b22;
+  --sl-color-bg-nav: #1c222b;
+  --sl-color-bg-sidebar: #1c222b;
+  --sl-color-bg-inline-code: #21262d;
+  --sl-color-text: #ecdfc5;
+  --sl-color-text-accent: #d9ae55;
+  --sl-color-white: #f3ebe0;
+  --sl-color-accent: #d9ae55;
+  --sl-color-accent-high: #f0d38b;
+  --sl-color-accent-low: #3a2f16;
+  --sl-color-hairline: #30373f;
+  --sl-color-hairline-light: #3a424c;
+  --sl-color-hairline-shade: #262c33;
+
+  --turg-bg-pergaminho: #21262d;
+  --turg-mata: #6b9b73;
+  --turg-axe: #d9ae55;
+}
+
+/* Tipografia global */
+body {
+  font-family: var(--turg-font-corpo);
+}
+
+h1, h2, h3,
+.sl-markdown-content h1,
+.sl-markdown-content h2 {
+  font-family: var(--turg-font-titulos);
+  letter-spacing: 0.01em;
+}
+
+.sl-markdown-content h1 {
+  color: var(--turg-texto);
+  border-bottom: 2px solid var(--turg-axe);
+  padding-bottom: 0.3em;
+}
+
+:root[data-theme='dark'] .sl-markdown-content h1 {
+  color: var(--sl-color-white);
+}
+
+/* Cards / Destaques com fundo "pergaminho" */
+.sl-markdown-content table,
+.sl-markdown-content pre,
+starlight-tabs [role='tabpanel'] {
+  background-color: var(--turg-bg-pergaminho);
+  border-radius: 8px;
+}
+
+/* Asides (:::caution, :::tip etc.) com toque de pergaminho */
+.sl-markdown-content .starlight-aside {
+  background-color: var(--turg-bg-pergaminho);
+  border-inline-start-color: var(--turg-axe);
+}
+
+.sl-markdown-content .starlight-aside--caution {
+  border-inline-start-color: #b5482f;
+  background-color: #f3e3dc;
+}
+:root[data-theme='dark'] .sl-markdown-content .starlight-aside--caution {
+  background-color: #2e1f1a;
+}
+
+.sl-markdown-content .starlight-aside--tip {
+  border-inline-start-color: var(--turg-mata);
+  background-color: #e7ede4;
+}
+:root[data-theme='dark'] .sl-markdown-content .starlight-aside--tip {
+  background-color: #1b2620;
+}
+
+/* Barra de busca em destaque no topo (Diretriz UI/UX #1) */
+site-search {
+  --sl-color-bg-nav: var(--turg-bg-pergaminho);
+}
+
+site-search .display-none {
+  border: 1.5px solid var(--turg-axe) !important;
+}
+
+/* ============================================================
+   Badges de Ervas (quentes / mornas / frias)
+   ============================================================ */
+.turg-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  font-family: var(--turg-font-corpo);
+  font-weight: 600;
+  font-size: 0.85rem;
+  padding: 0.25em 0.75em;
+  border-radius: 999px;
+  border: 1px solid transparent;
+  line-height: 1.4;
+}
+
+.turg-badge--quente {
+  background-color: #f6ded2;
+  color: #8a3d1c;
+  border-color: #d98a5f;
+}
+.turg-badge--morna {
+  background-color: #f3e6c9;
+  color: #7a5a12;
+  border-color: var(--turg-axe);
+}
+.turg-badge--fria {
+  background-color: #dce8e0;
+  color: var(--turg-mata);
+  border-color: var(--turg-mata);
+}
+
+:root[data-theme='dark'] .turg-badge--quente {
+  background-color: #3a241c; color: #e8a682; border-color: #8a3d1c;
+}
+:root[data-theme='dark'] .turg-badge--morna {
+  background-color: #362c14; color: #e8c878; border-color: var(--turg-axe);
+}
+:root[data-theme='dark'] .turg-badge--fria {
+  background-color: #1c2b21; color: #8fc79c; border-color: var(--turg-mata);
+}
+
+/* ============================================================
+   Callout genérico (usado pelo componente Callout.astro)
+   ============================================================ */
+.turg-callout {
+  font-family: var(--turg-font-corpo);
+  border-radius: 8px;
+  border: 1px solid var(--turg-axe);
+  background-color: var(--turg-bg-pergaminho);
+  padding: 1rem 1.25rem;
+  margin: 1.25rem 0;
+}
+
+.turg-callout__title {
+  font-family: var(--turg-font-titulos);
+  font-weight: 600;
+  color: var(--turg-texto);
+  margin: 0 0 0.4em 0;
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+}
+
+:root[data-theme='dark'] .turg-callout__title {
+  color: var(--sl-color-white);
+}

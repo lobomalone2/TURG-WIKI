@@ -1,0 +1,58 @@
+---
+/**
+ * Header.astro
+ * Sobrescreve o cabeçalho padrão do Starlight para colocar a busca
+ * em destaque no topo da tela (Diretriz UI/UX #1 do planejamento).
+ */
+import type { Props } from '@astrojs/starlight/props';
+import Search from '@astrojs/starlight/components/Search.astro';
+import SiteTitle from '@astrojs/starlight/components/SiteTitle.astro';
+import ThemeSelect from '@astrojs/starlight/components/ThemeSelect.astro';
+import LanguageSelect from '@astrojs/starlight/components/LanguageSelect.astro';
+---
+
+<div class="turg-header">
+  <div class="turg-header__title">
+    <SiteTitle {...Astro.props} />
+  </div>
+
+  <div class="turg-header__search">
+    <Search {...Astro.props} />
+  </div>
+
+  <div class="turg-header__actions">
+    <ThemeSelect {...Astro.props} />
+    <LanguageSelect {...Astro.props} />
+  </div>
+</div>
+
+<style>
+  .turg-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    width: 100%;
+  }
+
+  .turg-header__search {
+    flex: 1;
+    max-width: 40rem;
+    margin-inline: 1rem;
+  }
+
+  .turg-header__actions {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  @media (max-width: 50rem) {
+    .turg-header__title {
+      display: none;
+    }
+    .turg-header__search {
+      margin-inline: 0.5rem;
+    }
+  }
+</style>
