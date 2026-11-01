@@ -1,9 +1,10 @@
 ---
 title: "Letras de Esquerda na Umbanda"
-description: "Pontos de entidades de esquerda"
+description: "Coletânea de pontos cantados de Exus, Pombagiras e Entidades (Volume 3) do acervo de Ludi de Nanã."
 sidebar:
   order: 2
 ---
+
 # Coletânea de Pontos Cantados — Exus, Pombagiras e Entidades (Volume 3)
 
 ---
@@ -30,23 +31,7 @@ Lá na encruzilhada eu adorei seu Tranca-Ruas! (2x)
 
 ---
 
-### 4. Exu Tranca-Ruas (É Mojubá / Oh Luar)
-É mojubá, é mojubá, é mojubá!  
-Ele é odara dando a sua gargalhada,  
-Quem tem fé em Tranca-Ruas é só pedir que ele dá.  
-
-Se tem problema a resolver,  
-E encontrar dificuldade,  
-Depois das leis do universo,  
-Exu também faz caridade.  
-
-Oh luar, oh luar... Ele é dono da rua!  
-Quem cometeu as suas falhas,  
-Peça perdão a Tranca-Ruas! (2x)  
-
----
-
-### 5. Santo Antônio (Rodeia / Amansador)
+### 4. Santo Antônio (Rodeia / Amansador)
 Rodeia, rodeia, rodeia meu Santo Antônio, rodeia!  
 Deixa rodar!  
 Rodeia, rodeia, rodeia meu Santo Antônio, rodeia!  
@@ -54,19 +39,7 @@ Santo Antônio pequenino, amansador de burro bravo...
 
 ---
 
-### 6. Exu Caveira e João Caveira
-Olha que Exu é diabo! (2x)  
-Portão de ferro, cadeado de madeira. (2x)  
-Quem manda no cemitério é Exu Caveira! (2x)  
-
-Aonde vai Corcunda? Com Tatá Caveira! (2x)  
-No portão do cemitério vou chamar João Caveira. (2x)  
-
-Eu vi homem sentado debaixo da amendoeira... (2x)  
-
----
-
-### 7. Exu Sete Encruzilhadas & Exu Veludo
+### 5. Exu Sete Encruzilhadas & Exu Veludo
 Firma seu ponto com sete facas cruzadas!  
 Filho de banda pede com fé  
 Pra seu Sete Encruzilhadas,  
@@ -80,7 +53,7 @@ Lá na encruzilhada ele é Exu Veludo!
 
 ---
 
-### 8. Exu Tiriri & Exu Asa Negra
+### 6. Exu Tiriri & Exu Asa Negra
 É meia-noite em ponto e o galo cantou! (2x)  
 Cantou pra anunciar que Tiriri chegou. (2x)  
 
@@ -96,7 +69,7 @@ Por onde eu passar, seu Asa Negra vai me defender!
 
 ---
 
-### 9. Seu Zé Pelintra (Morada no Juremá)
+### 7. Seu Zé Pelintra (Morada no Juremá)
 Seu Zé Pelintra, onde é que o senhor mora?  
 Seu Zé Pelintra, onde é sua morada? (2x)  
 
@@ -109,7 +82,7 @@ A bênção meu pai, a bênção!
 
 ---
 
-### 10. Maria Navalha (Malandro de Saia)
+### 8. Maria Navalha (Malandro de Saia)
 Tão linda como o sol, tão bela como a lua. (2x)  
 Mulher de Zé Pelintra, amor de Tranca-Ruas. (2x)  
 
@@ -121,7 +94,7 @@ Boa noite gente, Maria Navalha aqui chegou! (2x)
 
 ---
 
-### 11. Maria Mulambo (Chegada e Agradecimento)
+### 9. Maria Mulambo (Chegada e Agradecimento)
 Lá vem ela, oh! Caminhando pela rua...  
 Lá vem a Maria Mulambo, com Tiriri, Marabô e Tranca-Rua.  
 
@@ -137,7 +110,7 @@ Maria Mulambo, Maria mulher!
 
 ---
 
-### 12. Maria Padilha das Almas (Cova 66)
+### 10. Maria Padilha das Almas (Cova 66)
 Eu hoje vou passar no cemitério,  
 Sempre foi o maior mistério saber se ela mora lá.  
 
@@ -152,7 +125,7 @@ O cemitério é o seu lugar!
 
 ---
 
-### 13. Pombagira (Vida, Amores e Sete Maridos)
+### 11. Pombagira (Vida, Amores e Sete Maridos)
 No tempo em que ela tinha dinheiro, os homens juraram lhe amar,  
 Mas hoje o dinheiro acabou, a velhice chegou e ela se põe a chorar.  
 
@@ -166,32 +139,7 @@ Chorei, chorei! O homem que eu amava eu matei. (2x)
 
 ---
 
-### 14. Pombagira Moça Bonita & Maria Mariá
-Cuidado amigo, ela é bonita, ela é mulher! (2x)  
-E no canto da rua zombando, zombando, zombando está,  
-Ela é moça bonita girando, girando, girando lá! (2x)  
-Oh girando laroyê, ó girando lá! (2x)  
-
-Quando passar na porta do cemitério, moço,  
-Só não esqueça de olhar pra trás!  
-Você vai ver uma moça vestida de preto, moço...  
-Ela é Maria Mariá! (5x)  
-
----
-
-### 15. Rosa Caveira & Pombagira Cigana
-E sua raiz fincada nessa terra, envolvida num caixão de madeira velha. (2x)  
-Madeira velha, madeira nova... Rosa Caveira mora nessa cova! (2x)  
-
-E tudo lá é tão misterioso, sua beleza é dividida entre mulher e osso. (2x)  
-Mulher... Mulher... Rosa Caveira é mulher de Lúcifer! (2x)  
-
-Vinha caminhando a pé, para ver se encontrava a Pombagira Cigana de fé. (2x)  
-Ela parou e leu minha mão, e me disse a pura verdade...  
-
----
-
-### 16. Ciganos da Terra e do Mar (Santa Sara Kali)
+### 12. Ciganos da Terra e do Mar (Santa Sara Kali)
 Vem... Vem caminhar com os ciganos da terra, com os ciganos do mar! (2x)  
 
 Santa Sara Kali, abençoe esta terra  
@@ -208,7 +156,7 @@ Canta, canta com firmeza, traz teu povo em união. (2x)
 
 ---
 
-### 17. Exu Mirim (Na Porta da Calunga e na Encruza)
+### 13. Exu Mirim (Na Porta da Calunga e na Encruza)
 Foi na porta da calunga que eu vi um vulto passar... (2x)  
 Quando eu entrei, no corredor tinha um menino,  
 Sentado na catacumba e estava a me olhar. (2x)  
@@ -223,4 +171,3 @@ Perguntei o que que foi, perguntei o que que faz. (2x)
 Eu sou Exu Mirim, e aprendi a trabalhar!  
 Quem me ensinou foi Seu Tranca Rua,  
 O seu feitiço eu vou quebrar!  
-

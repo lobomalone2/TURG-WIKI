@@ -1,6 +1,6 @@
 ---
 title: "Conduta na Casa"
-description: "Orientações gerais de conduta para os filhos de santo do TURG."
+description: "Orientações e preceitos de conduta espiritual da casa de Ludi de Nanã."
 sidebar:
   order: 2
 ---

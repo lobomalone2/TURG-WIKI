@@ -1,17 +1,14 @@
-# TURG Wiki — Acervo Digital
+# Ludi de Nanã — Acervo Digital
 
-Wiki estática, leve e mobile-first do **Templo de Umbanda Caboclo Rompe Mato e Pai
-Guiné (TURG)**, construída com [Astro](https://astro.build) + [Starlight](https://starlight.astro.build)
+Wiki estática, leve e mobile-first do acervo de **Ludi de Nanã**, construída com [Astro](https://astro.build) + [Starlight](https://starlight.astro.build)
 e busca instantânea via **Pagefind** (nativa no Starlight).
-
-Este projeto implementa integralmente o documento *"Planejamento do Projeto: TURG Wiki"*.
 
 ## 🧱 Stack
 
 - **Astro + Starlight** — geração estática (SSG), mobile-first.
 - **Markdown / MDX** — todo o conteúdo em `src/content/docs/`.
 - **Pagefind** — busca instantânea, embutida na build, sem API externa.
-- **CSS custom** — paleta pergaminho/terrosa da identidade visual do TURG.
+- **CSS custom** — paleta em vermelho e preto com design moderno e atraente.
 
 ## 🚀 Como rodar localmente
 
@@ -144,4 +141,4 @@ turg-wiki/
 ├── package.json
 └── tsconfig.json
 ```
-# TURG-WIKI
+# LUDI-DE-NANA

@@ -1,6 +1,6 @@
 ---
 title: "Guia de Fundamentos Espirituais"
-description: "Orientações gerais de conduta para os filhos de santo do TURG."
+description: "Guia completo de fundamentos, rituais e preceitos espirituais de Ludi de Nanã."
 sidebar:
   order: 2
 ---

@@ -1,11 +1,11 @@
 ---
 title: "Cartilha de Desenvolvimento — Fase 1"
-description: "Orientações gerais de conduta para os filhos de santo do TURG."
+description: "Orientações gerais de desenvolvimento mediúnico e conduta — Ludi de Nanã."
 sidebar:
   order: 2
 ---
 
-**Templo de Umbanda Caboclo Rompe Mato e Pai Guiné**
+**Acervo Espiritual — Ludi de Nanã**
 
 ---
 

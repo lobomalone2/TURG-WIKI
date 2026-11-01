@@ -1,6 +1,6 @@
 ---
 title: "Itens Mais Usados em Padê"
-description: "Orientações gerais de conduta para os filhos de santo do TURG."
+description: "Itens, oferendas e fundamentos mais usados em Padê no acervo de Ludi de Nanã."
 sidebar:
   order: 2
 ---

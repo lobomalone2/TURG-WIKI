@@ -1,14 +1,13 @@
 ---
 title: "Pai Guiné"
-description: "Linha e forma de trabalho de Pai Guiné, patrono do TURG."
+description: "Linha e forma de trabalho de Pai Guiné no acervo de Ludi de Nanã."
 sidebar:
   order: 1
 ---
 
 # Pai Guiné
 
-Pai Guiné é uma das entidades patronas do **Templo de Umbanda Caboclo Rompe Mato e Pai
-Guiné**, representando a sabedoria e a humildade da linha dos Pretos-Velhos.
+Pai Guiné é uma das entidades presentes nos estudos espirituais de **Ludi de Nanã**, representando a sabedoria e a humildade da linha dos Pretos-Velhos.
 
 ## Linha de Trabalho
 

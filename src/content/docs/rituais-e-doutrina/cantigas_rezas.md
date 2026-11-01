@@ -1,11 +1,9 @@
 ---
 title: "Cantigas e Rezas — Linha da Direita"
-description: "Orientações gerais de conduta para os filhos de santo do TURG."
+description: "Cantigas e rezas tradicionais da linha da direita no acervo de Ludi de Nanã."
 sidebar:
   order: 2
 ---
-
-
 
 
 

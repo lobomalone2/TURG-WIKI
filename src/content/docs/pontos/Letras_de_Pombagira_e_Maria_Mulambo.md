@@ -1,11 +1,9 @@
 ---
 title: "Letras de Pombagira e Maria Mulambo"
-description: "Esses são os pontos de Pombagira e Maria Mulambo que usamos em nosso terreiro"
+description: "Coletânea de pontos cantados de Exus e Pombagiras do acervo de Ludi de Nanã."
 sidebar:
   order: 2
 ---
-
-
 
 # Coletânea de Pontos Cantados — Exus e Pombagiras
 
@@ -31,14 +29,7 @@ Tranca Ruas vem na frente pra dizer quem Ela é (2x)
 
 ---
 
-### 3. A Sua Casa Não Tem Parede
-**TOQUE:** Congo de Ouro  
-
-A sua casa não tem parede...  
-
----
-
-### 4. Já Deu Meia-Noite
+### 3. Já Deu Meia-Noite
 **TOQUE:** Cabula  
 
 Quando o Sol aqui não mais brilhar  
@@ -61,7 +52,7 @@ Seu Tranca Ruas é do meu caminho
 
 ---
 
-### 5. Deu Meia-Noite, a Lua Se Escondeu
+### 4. Deu Meia-Noite, a Lua Se Escondeu
 **TOQUE:** Cabula  
 
 Deu meia-noite  
@@ -76,14 +67,7 @@ Quem tem fé em Tranca Ruas é só pedir que ele dá (2x)
 
 ---
 
-### 6. É Uma Casa de Pombo
-**TOQUE:** Congo de Ouro  
-
-É uma casa de pombo...  
-
----
-
-### 7. Ventou no Canavial
+### 5. Ventou no Canavial
 **TOQUE:** Cabula  
 
 Ventou no canavial  
@@ -95,7 +79,7 @@ Salve a coroa de Exu Marabô (2x)
 
 ---
 
-### 8. Ela é Maria, Maria
+### 6. Ela é Maria, Maria
 **TOQUE:** Cabula  
 
 Quando passar na porta do cemitério, moço  
@@ -110,7 +94,7 @@ Ela é Maria, Maria
 
 ---
 
-### 9. Peito de Aço
+### 7. Peito de Aço
 **TOQUE:** Cabula  
 
 Abre a roda  
@@ -121,7 +105,7 @@ E o coração de sabiá
 
 ---
 
-### 10. Cova 66, Corredor 40
+### 8. Cova 66, Corredor 40
 **TOQUE:** Barravento  
 
 Eu hoje vou passar no cemitério  
@@ -134,7 +118,7 @@ Eu quero ver quem guenta!
 
 ---
 
-### 11. Qui Qui Qui Quitéria
+### 9. Qui Qui Qui Quitéria
 **TOQUE:** Cabula  
 
 Qui qui qui  
@@ -147,16 +131,7 @@ No Sete Cruzeiros (2x)
 
 ---
 
-### 12. Eu Tenho um Nome Tão Lindo
-**TOQUE:** Congo de Ouro  
-
-Eu tenho um nome tão lindo  
-Mas eu só uso em tempo de guerra (2x)  
-Se querem saber o meu nome...  
-
----
-
-### 13. Pombagira Menina (Rainha do Cabaré)
+### 10. Pombagira Menina (Rainha do Cabaré)
 **TOQUE:** Cabula  
 
 Colocaram fogo  
@@ -176,7 +151,7 @@ Rainha do Cabaré
 
 ---
 
-### 14. Vou Jogar Dendê no Luar
+### 11. Vou Jogar Dendê no Luar
 **TOQUE:** Cabula  
 
 Vou jogar dendê no luar  
@@ -191,14 +166,7 @@ Oh, luar
 
 ---
 
-### 15. Deu um Temporal na Calunga
-**TOQUE:** Cabula  
-
-Deu um temporal na calunga...  
-
----
-
-### 16. Rosas do Vento
+### 12. Rosas do Vento
 **TOQUE:** Cabula  
 
 Soprou um vento  
@@ -218,7 +186,7 @@ Mas o cabaré sou eu!
 
 ---
 
-### 17. Botaram Meu Nome na Boca de um Bode
+### 13. Botaram Meu Nome na Boca de um Bode
 **TOQUE:** Cabula  
 
 Botaram meu nome na boca de um bode  
@@ -228,7 +196,7 @@ Você botou, você tem que tirar
 
 ---
 
-### 18. Tentaram Me Matar com Copo de Veneno
+### 14. Tentaram Me Matar com Copo de Veneno
 **TOQUE:** Cabula  
 
 Tentaram me matar  
@@ -238,12 +206,7 @@ Que beber eu bebo mesmo (2x)
 
 ---
 
-### 19. Dói, Dói, Dói, Dói, Dói
-**TOQUE:** Cabula  
-
----
-
-### 20. Maria Mulambo Aqui e em Qualquer Lugar
+### 15. Maria Mulambo Aqui e em Qualquer Lugar
 **TOQUE:** Cabula  
 
 Quando ela veio de lá  
@@ -253,17 +216,7 @@ Deixou aberto para quem quiser passar
 
 ---
 
-### 21. Maria Mulambo, Esse Agrado É pra Você
-**TOQUE:** Congo de Ouro  
-
-Maria Mulambo, esse agrado é pra você  
-Dentro de um cemitério  
-Eu vou deixar o seu padê  
-Vou deixar numa rosa preta...  
-
----
-
-### 22. Exu Mangueira É Quimbandeiro
+### 16. Exu Mangueira É Quimbandeiro
 **TOQUE:** Cabula  
 
 Ventou bem forte  
@@ -282,15 +235,7 @@ Sabe tudo de magia
 
 ---
 
-### 23. Deu Meia-Noite, Mas Também Deu Meio-Dia
-**TOQUE:** Cabula  
-
-Deu meia-noite, mas também deu meio-dia  
-Lá na encruzilhada Maria Padilha estava lá  
-
----
-
-### 24. Pombagira Feiticeira com 17 Punhais
+### 17. Pombagira Feiticeira com 17 Punhais
 **TOQUE:** Cabula  
 
 Oh 7, oh 7  
@@ -301,7 +246,7 @@ Pombagira feiticeira com 17 punhais (2x)
 
 ---
 
-### 25. Me Disseram que Essa Casa Ia Cair
+### 18. Me Disseram que Essa Casa Ia Cair
 **TOQUE:** Cabula  
 
 Me disseram que essa casa ia cair (2x)  
@@ -310,14 +255,7 @@ Que não dá cupim (2x)
 
 ---
 
-### 26. Oh Quitéria
-**TOQUE:** Congo de Ouro  
-
-Oh Quitéria...  
-
----
-
-### 27. Seu 7 Encruzilhadas
+### 19. Seu 7 Encruzilhadas
 **TOQUE:** Cabula  
 
 Odara, morador da encruzilhada  
@@ -327,7 +265,7 @@ Pra seu 7 Encruzilhadas, que ele dá o que você quer (2x)
 
 ---
 
-### 28. Cadê Marabô?
+### 20. Cadê Marabô?
 **TOQUE:** Cabula  
 
 Marabô lê  
@@ -339,5 +277,3 @@ Cadê Marabô?
 Cadê Marabô?  
 Cadê Marabô?  
 Marabô lá  
-
-

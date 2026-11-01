@@ -3,12 +3,12 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://turg-wiki.example.com',
+  site: 'https://ludi-de-nana.example.com',
   integrations: [
     starlight({
-      title: 'TURG Wiki',
+      title: 'Ludi de Nanã',
       description:
-        'Acervo digital do Templo de Umbanda Caboclo Rompe Mato e Pai Guiné — Orixás, Entidades, Ervas, Banhos, Rituais e Doutrina.',
+        'Acervo digital de Ludi de Nanã — Orixás, Entidades, Ervas, Banhos, Rituais e Doutrina.',
       defaultLocale: 'root',
       locales: {
         root: {
@@ -17,10 +17,10 @@ export default defineConfig({
         },
       },
       logo: {
-        src: './src/assets/logo-turg.png',
+        src: './src/assets/logo-ludi.svg',
         replacesTitle: false,
       },
-      favicon: '/favicon.png',
+      favicon: '/favicon.svg',
       customCss: ['./src/assets/styles/custom.css'],
       // Pagefind já vem habilitado nativamente pelo Starlight (pesquisa=true por padrão)
       pagefind: true,
@@ -63,8 +63,11 @@ export default defineConfig({
         },
       ],
       components: {
-        // Sobrescreve o cabeçalho padrão do Starlight pelo Header customizado do TURG
+        // Sobrescreve o cabeçalho padrão pelo Header customizado de Ludi de Nanã
         Header: './src/components/Header.astro',
+        // Desativa o seletor de tema e força o modo escuro permanente
+        ThemeSelect: './src/components/ThemeSelect.astro',
+        ThemeProvider: './src/components/ThemeProvider.astro',
       },
     }),
   ],

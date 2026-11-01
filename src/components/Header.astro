@@ -1,33 +1,31 @@
 ---
 /**
  * Header.astro
- * Sobrescreve o cabeçalho padrão do Starlight para colocar a busca
- * em destaque no topo da tela (Diretriz UI/UX #1 do planejamento).
+ * Cabeçalho customizado para Ludi de Nanã com busca em destaque,
+ * suporte visual em vermelho e preto e logo sempre visível.
  */
 import type { Props } from '@astrojs/starlight/props';
 import Search from '@astrojs/starlight/components/Search.astro';
 import SiteTitle from '@astrojs/starlight/components/SiteTitle.astro';
-import ThemeSelect from '@astrojs/starlight/components/ThemeSelect.astro';
 import LanguageSelect from '@astrojs/starlight/components/LanguageSelect.astro';
 ---
 
-<div class="turg-header">
-  <div class="turg-header__title">
+<div class="ludi-header">
+  <div class="ludi-header__title">
     <SiteTitle {...Astro.props} />
   </div>
 
-  <div class="turg-header__search">
+  <div class="ludi-header__search">
     <Search {...Astro.props} />
   </div>
 
-  <div class="turg-header__actions">
-    <ThemeSelect {...Astro.props} />
+  <div class="ludi-header__actions">
     <LanguageSelect {...Astro.props} />
   </div>
 </div>
 
 <style>
-  .turg-header {
+  .ludi-header {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -35,24 +33,53 @@ import LanguageSelect from '@astrojs/starlight/components/LanguageSelect.astro';
     width: 100%;
   }
 
-  .turg-header__search {
+  .ludi-header__title {
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+  }
+
+  .ludi-header__search {
     flex: 1;
     max-width: 40rem;
     margin-inline: 1rem;
   }
 
-  .turg-header__actions {
+  .ludi-header__actions {
     display: flex;
     align-items: center;
     gap: 0.5rem;
+    flex-shrink: 0;
   }
 
   @media (max-width: 50rem) {
-    .turg-header__title {
+    .ludi-header__title :global(span) {
       display: none;
     }
-    .turg-header__search {
-      margin-inline: 0.5rem;
+    .ludi-header__search {
+      margin-inline: 0.25rem;
     }
   }
 </style>
+
+<script>
+  function setupSearchTriggers() {
+    const searchLinks = document.querySelectorAll('a[href="#buscar"], a[href="#search"]');
+    searchLinks.forEach((link) => {
+      link.addEventListener('click', (e) => {
+        e.preventDefault();
+        const searchBtn = document.querySelector('button[data-open-modal]') as HTMLButtonElement | null;
+        if (searchBtn) {
+          searchBtn.click();
+        }
+      });
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', setupSearchTriggers);
+  } else {
+    setupSearchTriggers();
+  }
+  document.addEventListener('astro:page-load', setupSearchTriggers);
+</script>

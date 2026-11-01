@@ -1,6 +1,6 @@
 ---
 title: "Comecei meu desenvolvimento, e agora?"
-description: "Orientações gerais de conduta para os filhos de santo do TURG."
+description: "Guia prático para o início do desenvolvimento mediúnico — Ludi de Nanã."
 sidebar:
   order: 2
 ---

@@ -1,6 +1,6 @@
 ---
 title: "O que é o Padê e Seus Fundamentos"
-description: "Orientações gerais de conduta para os filhos de santo do TURG."
+description: "O que é o padê, sua importância e fundamentos espirituais no acervo de Ludi de Nanã."
 sidebar:
   order: 2
 ---

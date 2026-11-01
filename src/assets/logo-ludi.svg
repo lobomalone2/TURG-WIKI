@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <radialGradient id="bgGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#1c0f13"/>
+      <stop offset="65%" stop-color="#0e0a0c"/>
+      <stop offset="100%" stop-color="#050304"/>
+    </radialGradient>
+    
+    <linearGradient id="redGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff334b"/>
+      <stop offset="50%" stop-color="#d90429"/>
+      <stop offset="100%" stop-color="#7a0010"/>
+    </linearGradient>
+
+    <linearGradient id="crimsonLight" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#900010"/>
+      <stop offset="50%" stop-color="#e61937"/>
+      <stop offset="100%" stop-color="#ff6b7e"/>
+    </linearGradient>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background Circle -->
+  <circle cx="256" cy="256" r="248" fill="url(#bgGrad)" stroke="#221114" stroke-width="4"/>
+
+  <!-- Outer Ring with Red Glow -->
+  <circle cx="256" cy="256" r="236" fill="none" stroke="url(#redGrad)" stroke-width="4" filter="url(#glow)" opacity="0.8"/>
+  <circle cx="256" cy="256" r="236" fill="none" stroke="url(#redGrad)" stroke-width="2.5"/>
+  <circle cx="256" cy="256" r="226" fill="none" stroke="#e61937" stroke-width="1" stroke-dasharray="4,6" opacity="0.7"/>
+
+  <!-- Inner Concentric Ring -->
+  <circle cx="256" cy="256" r="175" fill="#090507" stroke="url(#redGrad)" stroke-width="2.5"/>
+  <circle cx="256" cy="256" r="167" fill="none" stroke="#ff334b" stroke-width="0.75" opacity="0.6"/>
+
+  <!-- Decorative Cardinal Points / Cross Elements (Ponto Riscado subtle motif) -->
+  <path d="M 256 24 L 256 75 M 256 437 L 256 488 M 24 256 L 75 256 M 437 256 L 488 256" stroke="#ff334b" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+  <circle cx="256" cy="49" r="4" fill="#ff334b"/>
+  <circle cx="256" cy="463" r="4" fill="#ff334b"/>
+  <circle cx="49" cy="256" r="4" fill="#ff334b"/>
+  <circle cx="463" cy="256" r="4" fill="#ff334b"/>
+
+  <!-- Diagonal Star Accents -->
+  <circle cx="110" cy="110" r="2.5" fill="#d90429" opacity="0.7"/>
+  <circle cx="402" cy="110" r="2.5" fill="#d90429" opacity="0.7"/>
+  <circle cx="110" cy="402" r="2.5" fill="#d90429" opacity="0.7"/>
+  <circle cx="402" cy="402" r="2.5" fill="#d90429" opacity="0.7"/>
+
+  <!-- Circular Text Along Path (LUDI DE NANÃ • ACERVO ESPIRITUAL •) -->
+  <path id="textArcTop" d="M 66 256 A 190 190 0 0 1 446 256" fill="none"/>
+  <path id="textArcBottom" d="M 446 256 A 190 190 0 0 1 66 256" fill="none"/>
+
+  <text fill="#ffffff" font-family="'Cinzel', 'Georgia', 'Times New Roman', serif" font-size="22" font-weight="700" letter-spacing="4">
+    <textPath href="#textArcTop" startOffset="50%" text-anchor="middle">
+      LUDI DE NANÃ
+    </textPath>
+  </text>
+
+  <text fill="#ff6b7e" font-family="'Cinzel', 'Georgia', 'Times New Roman', serif" font-size="14" font-weight="600" letter-spacing="3.5">
+    <textPath href="#textArcBottom" startOffset="50%" text-anchor="middle">
+      ✦ ACERVO DIGITAL ✦
+    </textPath>
+  </text>
+
+  <!-- Central Sacred Insignia: Monogram "LN" Stylized & Spiritual Crescent/Flames -->
+  <!-- Subtle background glow in center -->
+  <circle cx="256" cy="256" r="90" fill="#d90429" opacity="0.12" filter="url(#glow)"/>
+
+  <!-- Ritual Flame / Ibiri curves / Sacred Crescent -->
+  <path d="M 256 182 C 275 210 292 235 292 260 C 292 284 276 304 256 312 C 236 304 220 284 220 260 C 220 235 237 210 256 182 Z" 
+        fill="url(#crimsonLight)" opacity="0.25"/>
+
+  <!-- Stylized L and N Monogram -->
+  <!-- 'L' letter -->
+  <path d="M 215 205 L 235 205 L 235 285 L 275 285 L 275 303 L 215 303 Z" 
+        fill="none" stroke="url(#redGrad)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity="0.95"/>
+  <path d="M 215 205 L 235 205 L 235 285 L 275 285 L 275 303 L 215 303 Z" 
+        fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+
+  <!-- 'N' letter entwined -->
+  <path d="M 245 303 L 245 215 L 295 295 L 295 215" 
+        fill="none" stroke="url(#redGrad)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity="0.95"/>
+  <path d="M 245 303 L 245 215 L 295 295 L 295 215" 
+        fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+
+  <!-- Central Sacred Star / Spark at bottom -->
+  <polygon points="256,155 259,165 269,165 261,171 264,181 256,175 248,181 251,171 243,165 253,165" fill="#ff334b"/>
+  <polygon points="256,335 259,343 267,343 260,348 263,356 256,351 249,356 252,348 245,343 253,343" fill="#ff334b"/>
+</svg>

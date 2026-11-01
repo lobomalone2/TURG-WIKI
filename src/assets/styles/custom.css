@@ -1,186 +1,445 @@
 /* ============================================================
-   TURG WIKI — Identidade Visual
-   Baseado na logomarca oficial (estilo pergaminho antigo,
-   ilustrações clássicas de Preto Velho e Caboclo)
+   LUDI DE NANÃ — Identidade Visual Oficial
+   Paleta: Preto & Vermelho (Elegante, Espiritual e Impactante)
    ============================================================ */
 
-@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600&family=Source+Sans+3:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;900&family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap');
 
 :root {
-  /* Paleta — Modo Claro */
-  --turg-bg-geral: #faf7f2;              /* Fundo geral (off-white) */
-  --turg-bg-pergaminho: #f3ebe0;         /* Fundo de cards/destaques */
-  --turg-bg-pergaminho-alt: #e8dec8;     /* Variante mais escura do pergaminho */
-  --turg-texto: #2a1a08;                 /* Marrom/café profundo (nanquim/xilogravura) */
-  --turg-mata: #3a5a40;                  /* Verde fechado ritualístico */
-  --turg-axe: #c89b3c;                   /* Dourado envelhecido / terracota (acento) */
+  /* Paleta Base - Vermelho & Preto */
+  --ludi-preto-profundo: #08080a;
+  --ludi-preto-elevado: #111116;
+  --ludi-preto-card: #14141a;
+  --ludi-preto-hover: #1c1c24;
+
+  --ludi-vermelho-vibrante: #ef233c;
+  --ludi-vermelho-carmim: #d90429;
+  --ludi-vermelho-rubi: #9d0208;
+  --ludi-vermelho-escuro: #590d22;
+  --ludi-vermelho-brilho: rgba(217, 4, 41, 0.35);
+
+  --ludi-branco: #ffffff;
+  --ludi-texto-claro: #f1f5f9;
+  --ludi-texto-suave: #94a3b8;
 
   /* Tipografia */
-  --turg-font-titulos: 'Cinzel', 'Cormorant Garamond', serif;
-  --turg-font-corpo: 'Inter', 'Source Sans 3', sans-serif;
+  --ludi-font-titulos: 'Cinzel', 'Cormorant Garamond', Georgia, serif;
+  --ludi-font-corpo: 'Plus Jakarta Sans', 'Inter', system-ui, sans-serif;
 
-  /* Mapeamento para variáveis do Starlight — Modo Claro */
-  --sl-color-bg: var(--turg-bg-geral);
-  --sl-color-bg-nav: var(--turg-bg-pergaminho);
-  --sl-color-bg-sidebar: var(--turg-bg-pergaminho);
-  --sl-color-bg-inline-code: var(--turg-bg-pergaminho-alt);
-  --sl-color-text: var(--turg-texto);
-  --sl-color-text-accent: var(--turg-axe);
-  --sl-color-white: var(--turg-texto);
-  --sl-color-accent: var(--turg-axe);
-  --sl-color-accent-high: #8a6a20;
-  --sl-color-accent-low: #f0e3c4;
-  --sl-color-hairline: #d8c9a8;
-  --sl-color-hairline-light: #e4d8bc;
-  --sl-color-hairline-shade: #cbb98e;
+  color-scheme: dark;
+
+  /* Starlight Mapeamento - Sempre Modo Escuro Permanente */
+  --sl-color-bg: var(--ludi-preto-profundo);
+  --sl-color-bg-nav: rgba(12, 12, 16, 0.92);
+  --sl-color-bg-sidebar: #0b0b0e;
+  --sl-color-bg-inline-code: #1b1618;
+  --sl-color-text: var(--ludi-texto-claro);
+  --sl-color-text-accent: var(--ludi-vermelho-vibrante);
+  --sl-color-white: var(--ludi-branco);
+  --sl-color-accent: var(--ludi-vermelho-carmim);
+  --sl-color-accent-high: #ff4d6d;
+  --sl-color-accent-low: #37060f;
+  --sl-color-hairline: rgba(217, 4, 41, 0.22);
+  --sl-color-hairline-light: rgba(217, 4, 41, 0.35);
+  --sl-color-hairline-shade: #18080b;
+
+  --sl-color-gray-1: #f8fafc;
+  --sl-color-gray-2: #e2e8f0;
+  --sl-color-gray-3: #94a3b8;
+  --sl-color-gray-4: #64748b;
+  --sl-color-gray-5: #334155;
+  --sl-color-gray-6: #1e293b;
+
+  --sl-font: var(--ludi-font-corpo);
+  --sl-font-mono: 'JetBrains Mono', monospace;
 }
 
-/* Modo Escuro */
-:root[data-theme='dark'] {
-  --sl-color-bg: #161b22;
-  --sl-color-bg-nav: #1c222b;
-  --sl-color-bg-sidebar: #1c222b;
-  --sl-color-bg-inline-code: #21262d;
-  --sl-color-text: #ecdfc5;
-  --sl-color-text-accent: #d9ae55;
-  --sl-color-white: #f3ebe0;
-  --sl-color-accent: #d9ae55;
-  --sl-color-accent-high: #f0d38b;
-  --sl-color-accent-low: #3a2f16;
-  --sl-color-hairline: #30373f;
-  --sl-color-hairline-light: #3a424c;
-  --sl-color-hairline-shade: #262c33;
-
-  --turg-bg-pergaminho: #21262d;
-  --turg-mata: #6b9b73;
-  --turg-axe: #d9ae55;
+/* Garante modo escuro mesmo se forçado externamente */
+:root,
+:root[data-theme='dark'],
+:root[data-theme='light'] {
+  color-scheme: dark !important;
+  --sl-color-bg: var(--ludi-preto-profundo) !important;
+  --sl-color-bg-nav: rgba(12, 12, 16, 0.92) !important;
+  --sl-color-bg-sidebar: #0b0b0e !important;
+  --sl-color-bg-inline-code: #1b1618 !important;
+  --sl-color-text: var(--ludi-texto-claro) !important;
+  --sl-color-text-accent: var(--ludi-vermelho-vibrante) !important;
+  --sl-color-white: var(--ludi-branco) !important;
+  --sl-color-accent: var(--ludi-vermelho-carmim) !important;
+  --sl-color-accent-high: #ff4d6d !important;
+  --sl-color-accent-low: #37060f !important;
 }
 
-/* Tipografia global */
-body {
-  font-family: var(--turg-font-corpo);
-}
-
-h1, h2, h3,
-.sl-markdown-content h1,
-.sl-markdown-content h2 {
-  font-family: var(--turg-font-titulos);
-  letter-spacing: 0.01em;
-}
-
-.sl-markdown-content h1 {
-  color: var(--turg-texto);
-  border-bottom: 2px solid var(--turg-axe);
-  padding-bottom: 0.3em;
-}
-
-:root[data-theme='dark'] .sl-markdown-content h1 {
-  color: var(--sl-color-white);
-}
-
-/* Cards / Destaques com fundo "pergaminho" */
-.sl-markdown-content table,
-.sl-markdown-content pre,
-starlight-tabs [role='tabpanel'] {
-  background-color: var(--turg-bg-pergaminho);
-  border-radius: 8px;
-}
-
-/* Asides (:::caution, :::tip etc.) com toque de pergaminho */
-.sl-markdown-content .starlight-aside {
-  background-color: var(--turg-bg-pergaminho);
-  border-inline-start-color: var(--turg-axe);
-}
-
-.sl-markdown-content .starlight-aside--caution {
-  border-inline-start-color: #b5482f;
-  background-color: #f3e3dc;
-}
-:root[data-theme='dark'] .sl-markdown-content .starlight-aside--caution {
-  background-color: #2e1f1a;
-}
-
-.sl-markdown-content .starlight-aside--tip {
-  border-inline-start-color: var(--turg-mata);
-  background-color: #e7ede4;
-}
-:root[data-theme='dark'] .sl-markdown-content .starlight-aside--tip {
-  background-color: #1b2620;
-}
-
-/* Barra de busca em destaque no topo (Diretriz UI/UX #1) */
-site-search {
-  --sl-color-bg-nav: var(--turg-bg-pergaminho);
-}
-
-site-search .display-none {
-  border: 1.5px solid var(--turg-axe) !important;
+/* Oculta qualquer seletor de tema remanescente */
+starlight-theme-select {
+  display: none !important;
 }
 
 /* ============================================================
-   Badges de Ervas (quentes / mornas / frias)
+   Tipografia Global e Títulos
    ============================================================ */
+body {
+  font-family: var(--ludi-font-corpo);
+  background-color: var(--sl-color-bg);
+  color: var(--sl-color-text);
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4,
+.sl-markdown-content h1,
+.sl-markdown-content h2,
+.sl-markdown-content h3 {
+  font-family: var(--ludi-font-titulos);
+  letter-spacing: 0.02em;
+  font-weight: 700;
+}
+
+.sl-markdown-content h1 {
+  color: var(--sl-color-white);
+  border-bottom: 2px solid var(--ludi-vermelho-carmim);
+  padding-bottom: 0.4em;
+  margin-top: 1.5rem;
+  margin-bottom: 1.25rem;
+}
+
+.sl-markdown-content h2 {
+  color: var(--sl-color-white);
+  border-bottom: 1px solid rgba(217, 4, 41, 0.25);
+  padding-bottom: 0.3em;
+}
+
+/* ============================================================
+   Cabeçalho e Navegação (Header)
+   ============================================================ */
+header.header {
+  border-bottom: 1.5px solid rgba(217, 4, 41, 0.35) !important;
+  backdrop-filter: blur(14px) !important;
+  background: rgba(10, 10, 14, 0.88) !important;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5) !important;
+}
+
+.site-title {
+  font-family: var(--ludi-font-titulos) !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.06em !important;
+  color: var(--ludi-branco) !important;
+  display: flex !important;
+  align-items: center !important;
+  gap: 0.65rem !important;
+  text-decoration: none !important;
+}
+
+.site-title img {
+  border-radius: 50% !important;
+  box-shadow: 0 0 12px rgba(217, 4, 41, 0.5) !important;
+  transition: transform 0.3s ease, box-shadow 0.3s ease !important;
+}
+
+.site-title:hover img {
+  transform: scale(1.06) rotate(3deg) !important;
+  box-shadow: 0 0 18px rgba(239, 35, 60, 0.8) !important;
+}
+
+/* ============================================================
+   Busca (Pagefind & Search)
+   ============================================================ */
+site-search button[data-open-modal] {
+  background: rgba(22, 22, 28, 0.85) !important;
+  border: 1.5px solid rgba(217, 4, 41, 0.4) !important;
+  border-radius: 999px !important;
+  color: #e2e8f0 !important;
+  transition: all 0.25s ease !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3) !important;
+}
+
+site-search button[data-open-modal]:hover {
+  border-color: var(--ludi-vermelho-vibrante) !important;
+  background: rgba(35, 20, 24, 0.95) !important;
+  box-shadow: 0 0 15px rgba(217, 4, 41, 0.4) !important;
+}
+
+site-search button[data-open-modal] svg {
+  color: var(--ludi-vermelho-vibrante) !important;
+}
+
+site-search button[data-open-modal] kbd {
+  background: #2a1015 !important;
+  border-color: #590d22 !important;
+  color: #ff6b7e !important;
+}
+
+/* ============================================================
+   Página Inicial (Splash Hero Section)
+   ============================================================ */
+.hero {
+  position: relative !important;
+  padding-top: 2rem !important;
+  padding-bottom: 2rem !important;
+}
+
+/* Efeito de brilho rubro de fundo */
+.hero::before {
+  content: '';
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  max-width: 90vw;
+  height: 350px;
+  background: radial-gradient(circle, rgba(217, 4, 41, 0.22) 0%, rgba(139, 0, 24, 0.08) 50%, transparent 75%);
+  pointer-events: none;
+  z-index: -1;
+  filter: blur(20px);
+}
+
+.hero h1 {
+  font-family: var(--ludi-font-titulos) !important;
+  font-size: clamp(2.2rem, 5vw, 3.4rem) !important;
+  font-weight: 900 !important;
+  letter-spacing: 0.05em !important;
+  text-shadow: 0 0 25px rgba(217, 4, 41, 0.4) !important;
+  color: #ffffff !important;
+}
+
+.hero .tagline {
+  font-size: 1.15rem !important;
+  color: #cbd5e1 !important;
+  max-width: 42rem !important;
+  margin-inline: auto !important;
+  font-weight: 500 !important;
+}
+
+/* Botões da Hero */
+.hero .actions {
+  display: flex !important;
+  gap: 1rem !important;
+  justify-content: center !important;
+  flex-wrap: wrap !important;
+  margin-top: 1.75rem !important;
+}
+
+/* Botão Primário: "Acessar o Acervo" */
+.hero .actions a.primary {
+  background: linear-gradient(135deg, #ef233c 0%, #d90429 50%, #8a0014 100%) !important;
+  color: #ffffff !important;
+  border: 1.5px solid #ff4d6d !important;
+  border-radius: 999px !important;
+  font-weight: 700 !important;
+  font-family: var(--ludi-font-titulos) !important;
+  letter-spacing: 0.04em !important;
+  padding: 0.85rem 1.75rem !important;
+  box-shadow: 0 4px 22px rgba(217, 4, 41, 0.5), 0 0 10px rgba(217, 4, 41, 0.3) !important;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+}
+
+.hero .actions a.primary:hover {
+  transform: translateY(-3px) scale(1.02) !important;
+  box-shadow: 0 8px 30px rgba(239, 35, 60, 0.7), 0 0 18px rgba(239, 35, 60, 0.5) !important;
+}
+
+/* Botão Secundário: "Buscar na Wiki" */
+.hero .actions a.secondary {
+  background: rgba(18, 18, 24, 0.9) !important;
+  color: #f8fafc !important;
+  border: 1.5px solid var(--ludi-vermelho-carmim) !important;
+  border-radius: 999px !important;
+  font-weight: 600 !important;
+  font-family: var(--ludi-font-titulos) !important;
+  letter-spacing: 0.04em !important;
+  padding: 0.85rem 1.75rem !important;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4) !important;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+}
+
+.hero .actions a.secondary:hover {
+  background: rgba(45, 14, 20, 0.95) !important;
+  border-color: var(--ludi-vermelho-vibrante) !important;
+  color: #ffffff !important;
+  transform: translateY(-3px) scale(1.02) !important;
+  box-shadow: 0 6px 20px rgba(217, 4, 41, 0.4) !important;
+}
+
+/* ============================================================
+   Cards e Links Interativos (LinkCard / CardGrid)
+   ============================================================ */
+.sl-link-card {
+  background: rgba(18, 18, 24, 0.85) !important;
+  border: 1.5px solid rgba(217, 4, 41, 0.25) !important;
+  border-radius: 12px !important;
+  padding: 1.35rem !important;
+  transition: all 0.3s ease !important;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.4) !important;
+  text-decoration: none !important;
+}
+
+.sl-link-card:hover {
+  border-color: var(--ludi-vermelho-vibrante) !important;
+  background: rgba(28, 16, 22, 0.95) !important;
+  transform: translateY(-4px) !important;
+  box-shadow: 0 10px 30px rgba(217, 4, 41, 0.35), 0 0 15px rgba(217, 4, 41, 0.2) !important;
+}
+
+.sl-link-card .title {
+  font-family: var(--ludi-font-titulos) !important;
+  font-weight: 700 !important;
+  font-size: 1.25rem !important;
+  color: #ffffff !important;
+  display: flex !important;
+  align-items: center !important;
+  gap: 0.5rem !important;
+}
+
+.sl-link-card .description {
+  color: #94a3b8 !important;
+  font-size: 0.92rem !important;
+  margin-top: 0.4rem !important;
+  line-height: 1.5 !important;
+}
+
+.sl-link-card .icon {
+  color: var(--ludi-vermelho-vibrante) !important;
+}
+
+/* Cards convencionais */
+.card {
+  background: rgba(18, 18, 24, 0.8) !important;
+  border: 1.5px solid rgba(217, 4, 41, 0.2) !important;
+  border-radius: 12px !important;
+  transition: all 0.3s ease !important;
+}
+
+.card:hover {
+  border-color: var(--ludi-vermelho-vibrante) !important;
+  box-shadow: 0 8px 24px rgba(217, 4, 41, 0.25) !important;
+}
+
+/* ============================================================
+   Menu Lateral (Sidebar)
+   ============================================================ */
+nav.sidebar {
+  border-inline-end: 1px solid rgba(217, 4, 41, 0.2) !important;
+  background: rgba(11, 11, 15, 0.95) !important;
+}
+
+.sidebar-content a[aria-current='page'],
+.sidebar-content a:hover {
+  color: #ff4d6d !important;
+}
+
+.sidebar-content a[aria-current='page'] {
+  background: rgba(217, 4, 41, 0.15) !important;
+  border-inline-start: 3px solid var(--ludi-vermelho-vibrante) !important;
+  font-weight: 600 !important;
+}
+
+/* ============================================================
+   Avisos / Asides (:::note, :::caution, :::tip)
+   ============================================================ */
+.starlight-aside {
+  border-radius: 10px !important;
+  border-inline-start-width: 4px !important;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3) !important;
+  background: rgba(17, 17, 23, 0.9) !important;
+}
+
+.starlight-aside--note {
+  border-inline-start-color: var(--ludi-vermelho-carmim) !important;
+  background: rgba(35, 12, 18, 0.8) !important;
+}
+
+.starlight-aside--caution {
+  border-inline-start-color: #ff334b !important;
+  background: rgba(45, 10, 16, 0.85) !important;
+}
+
+.starlight-aside--tip {
+  border-inline-start-color: #2ec4b6 !important;
+  background: rgba(10, 30, 28, 0.85) !important;
+}
+
+/* ============================================================
+   Badges de Ervas e Linhas
+   ============================================================ */
+.ludi-badge,
 .turg-badge {
   display: inline-flex;
   align-items: center;
   gap: 0.4em;
-  font-family: var(--turg-font-corpo);
+  font-family: var(--ludi-font-corpo);
   font-weight: 600;
   font-size: 0.85rem;
-  padding: 0.25em 0.75em;
+  padding: 0.25em 0.85em;
   border-radius: 999px;
   border: 1px solid transparent;
   line-height: 1.4;
+  letter-spacing: 0.02em;
 }
 
+.ludi-badge--quente,
 .turg-badge--quente {
-  background-color: #f6ded2;
-  color: #8a3d1c;
-  border-color: #d98a5f;
-}
-.turg-badge--morna {
-  background-color: #f3e6c9;
-  color: #7a5a12;
-  border-color: var(--turg-axe);
-}
-.turg-badge--fria {
-  background-color: #dce8e0;
-  color: var(--turg-mata);
-  border-color: var(--turg-mata);
+  background: #380710;
+  color: #ff6b7e;
+  border-color: #9d0208;
+  box-shadow: 0 0 10px rgba(217, 4, 41, 0.2);
 }
 
-:root[data-theme='dark'] .turg-badge--quente {
-  background-color: #3a241c; color: #e8a682; border-color: #8a3d1c;
+.ludi-badge--morna,
+.turg-badge--morna {
+  background: #2b1708;
+  color: #fbd38d;
+  border-color: #9c5c10;
 }
-:root[data-theme='dark'] .turg-badge--morna {
-  background-color: #362c14; color: #e8c878; border-color: var(--turg-axe);
-}
-:root[data-theme='dark'] .turg-badge--fria {
-  background-color: #1c2b21; color: #8fc79c; border-color: var(--turg-mata);
+
+.ludi-badge--fria,
+.turg-badge--fria {
+  background: #0f271a;
+  color: #6ee7b7;
+  border-color: #1a5632;
 }
 
 /* ============================================================
-   Callout genérico (usado pelo componente Callout.astro)
+   Callouts Customizados
    ============================================================ */
+.ludi-callout,
 .turg-callout {
-  font-family: var(--turg-font-corpo);
-  border-radius: 8px;
-  border: 1px solid var(--turg-axe);
-  background-color: var(--turg-bg-pergaminho);
-  padding: 1rem 1.25rem;
-  margin: 1.25rem 0;
+  border-radius: 10px;
+  border: 1.5px solid rgba(217, 4, 41, 0.35);
+  background: rgba(18, 18, 24, 0.85);
+  padding: 1.15rem 1.35rem;
+  margin: 1.5rem 0;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.35);
 }
 
+.ludi-callout__title,
 .turg-callout__title {
-  font-family: var(--turg-font-titulos);
-  font-weight: 600;
-  color: var(--turg-texto);
-  margin: 0 0 0.4em 0;
+  font-family: var(--ludi-font-titulos);
+  font-weight: 700;
+  color: #ff4d6d;
+  margin: 0 0 0.5em 0;
   display: flex;
   align-items: center;
   gap: 0.5em;
 }
 
-:root[data-theme='dark'] .turg-callout__title {
-  color: var(--sl-color-white);
+/* ============================================================
+   Scrollbars Personalizadas (Vermelho & Preto)
+   ============================================================ */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #09090c;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #3d141b;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--ludi-vermelho-carmim);
 }

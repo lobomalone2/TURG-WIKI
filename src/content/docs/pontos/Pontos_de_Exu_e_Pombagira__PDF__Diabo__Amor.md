@@ -1,6 +1,6 @@
 ---
 title: "Pontos de Exu e Pombagira Diabo e Amor"
-description: "Pontos Diabo e Amor"
+description: "Coletânea de pontos cantados de Exus, Pombagiras e Entidades (Volume 4) do acervo de Ludi de Nanã."
 sidebar:
   order: 2
 ---
@@ -31,26 +31,7 @@ Aqui reina as Pombagiras, Marabô e Abará!
 
 ---
 
-### 2. Festa de Exu Tiriri
-É meia-noite em ponto e o galo cantou! (2x)  
-Cantou pra anunciar que Tiriri chegou. (2x)  
-
-Ele vem da Calunga de capa, cartola e tridente na mão.  
-Esse Exu de fé é quem nos traz Axé e nos dá proteção.  
-Ele é Exu Odara e vem nos ajudar,  
-Com seu punhal ele fura, ele corta demanda, ele salva, ele cura.  
-
-Exu amojubá, Laroyê! Alaroyê Exu, Exu é mojubá!  
-
-Eu perguntei a ele o que é Exu, ele vem me falar: (2x)  
-Exu é caminho, é energia, é vida, é determinação.  
-É cumpridor da Lei, Exu é esperto, Exu é guardião.  
-Exu é trabalho, é alegria veloz, Exu é viver,  
-É a magia, é o encanto!  
-
----
-
-### 3. Seu Tiriri (No Meu Canto Sossegado)
+### 2. Seu Tiriri (No Meu Canto Sossegado)
 No meu canto sossegado, (2x)  
 Você mexeu comigo, mas mexeu foi com o diabo! (2x)  
 
@@ -59,13 +40,13 @@ Ele é Seu Tiriri, esse Exu é um perigo! (2x)
 
 ---
 
-### 4. Exu Pede Licença
+### 3. Exu Pede Licença
 Ogum, Exu pede licença pra o seu povo arriar, Ogum! (2x)  
 Mas ele é um Exu guerreiro, vem trazendo forças pra esse terreiro! (2x)  
 
 ---
 
-### 5. Salve Exu, Rei da Encruzilhada
+### 4. Salve Exu, Rei da Encruzilhada
 Salve Exu, rei da encruzilhada!  
 Numa banda sem Exu não se pode fazer nada.  
 Em cima daquela mesa tem sete facas cruzadas:  
@@ -73,7 +54,7 @@ Salve Tranca-Ruas, salve Sete Encruzilhadas! (2x)
 
 ---
 
-### 6. Exu Sete Encruzilhadas (Dizem que Exu só bebe e dá risada)
+### 5. Exu Sete Encruzilhadas (Dizem que Exu só bebe e dá risada)
 Dizem que Exu só bebe e dá risada,  
 Mas ele é Exu, é o rei das Sete Encruzilhadas! (2x)  
 
@@ -85,7 +66,7 @@ Depois da hora grande vai girar na encruzilhada!
 
 ---
 
-### 7. Doutrina e Respeito a Exu (Fé não é pra qualquer um)
+### 6. Doutrina e Respeito a Exu (Fé não é pra qualquer um)
 **Refrão:**  
 Fé não é pra qualquer um, quem tem fé respeita Exu! (2x)  
 
@@ -102,7 +83,7 @@ Lembrando que Exu é guardião, Exu é caminho, Exu é evolução.
 
 ---
 
-### 8. Exu Bagaceira (Secretário do Cão)
+### 7. Exu Bagaceira (Secretário do Cão)
 Eu tenho asa, eu tenho garra na forma de um gavião. (2x)  
 Eu perambulo pela noite e eu durmo/descanso num caixão. (2x)  
 Os inimigos eu carrego, meu punhal no coração. (2x)  
@@ -114,7 +95,7 @@ Oh quebra osso, quebra osso, Bagaceira chegou! (4x)
 
 ---
 
-### 9. Tranca-Rua (O Sino da Igrejinha)
+### 8. Tranca-Rua (O Sino da Igrejinha)
 O sino da igrejinha faz blém, blém, blom! (2x)  
 Deu meia-noite o galo já cantou,  
 Seu Tranca-Rua que é o dono da gira,  
@@ -122,7 +103,7 @@ Oi corre gira que Ogum mandou! (2x)
 
 ---
 
-### 10. Tranca-Rua (Dono do Meu Caminho)
+### 9. Tranca-Rua (Dono do Meu Caminho)
 Quando o sol aqui não mais brilhar,  
 Quando a lua o seu clarão refletir,  
 É sinal que está na hora,  
@@ -136,7 +117,7 @@ Quebra feitiço e também desfaz o mal! (2x)
 
 ---
 
-### 11. Tranca-Rua (Oh Luar)
+### 10. Tranca-Rua (Oh Luar)
 Se tem problema a resolver (Oh luar)  
 E encontrar dificuldade (Oh luar),  
 Depois das leis do universo (Oh luar),  
@@ -156,20 +137,20 @@ Quem cometeu as suas falhas, peça perdão a Tranca-Rua.
 
 ---
 
-### 12. Tranca-Rua de Embaré
+### 11. Tranca-Rua de Embaré
 Quem quiser me ver, suba num barranco, ó Zé! (2x)  
 O nome dele é Tranca-Rua de Embaré! (2x)  
 
 ---
 
-### 13. Tranca-Rua (Madeira de Lei)
+### 12. Tranca-Rua (Madeira de Lei)
 **Refrão:**  
 É madeira de lei, é madeira de lei!  
 Tranca-Rua no terreiro trabalha como ninguém! (2x)  
 
 ---
 
-### 14. Exu Rei das Sete Encruzilhadas & Marabô
+### 13. Exu Rei das Sete Encruzilhadas & Marabô
 Oh, meu senhor das almas, disse que eu não valho nada. (2x)  
 Olha lá que ele é Exu, rei das Sete Encruzilhadas! (2x)  
 
@@ -183,7 +164,7 @@ Os meus caminhos quem protege é Marabô!
 
 ---
 
-### 15. Exu Morcego (Guardião da Noite)
+### 14. Exu Morcego (Guardião da Noite)
 Quando o sol se esconder, a noite cair, a lua brilhar, (2x)  
 É hora, é hora! Exu Morcego vem pra trabalhar! (2x)  
 
@@ -194,13 +175,13 @@ Ele é Guardião, é meu protetor... Seu Exu Morcego! (2x)
 
 ---
 
-### 16. Exu Caveira (Plantei a Faca)
+### 15. Exu Caveira (Plantei a Faca)
 Plantei a faca no tronco da bananeira, (2x)  
 A faca virou vela, o tronco virou Caveira! (2x)  
 
 ---
 
-### 17. Guardião da Fé (Exu e a Coragem)
+### 16. Guardião da Fé (Exu e a Coragem)
 Um lindo clarão lá do céu fez a Lua brilhar,  
 Um raio iluminou e surgiu lá na terra um grande orixá.  
 Do fogo levantou para caminhar,  
@@ -214,12 +195,12 @@ Se lhe faltar a coragem, a disciplina, a lealdade, Exu vai lhe cobrar!
 
 ---
 
-### 18. Fazer Casa no Capim
+### 17. Fazer Casa no Capim
 Fazer casa no capim... Oi quando o capim pega fogo, marimbondo leva fim! (2x)  
 
 ---
 
-### 19. Diabo Velho (Quebra de Falso Amigo)
+### 18. Diabo Velho (Quebra de Falso Amigo)
 Diabo velho, eu vou cortar seu chifre!  
 Vou cortar seu rabo e dar pra Exu comer! (2x)  
 
@@ -231,7 +212,7 @@ Pega ela, diabo! Pega ela, satanás! (2x)
 
 ---
 
-### 20. Chora Violino (Malandragem e Amor)
+### 19. Chora Violino (Malandragem e Amor)
 **Refrão:**  
 Chora violino, chora! Chora de saudade e dor!  
 Chora violino, chora! Eu perdi meu grande amor!  
@@ -248,7 +229,7 @@ Como eu não tenho ninguém, vou beber até morrer!
 
 ---
 
-### 21. Santo Antônio & Firmeza de Tranca-Rua
+### 20. Santo Antônio & Firmeza de Tranca-Rua
 **Refrão:**  
 Rodeia, rodeia, rodeia meu Santo Antônio, rodeia! (2x)  
 
@@ -263,7 +244,7 @@ Convidou Maria Padilha para não dançar sozinho!
 
 ---
 
-### 22. Tranca-Rua (Senhor da Madrugada)
+### 21. Tranca-Rua (Senhor da Madrugada)
 Ele é o senhor da madrugada, ele é o rei da encruzilhada,  
 Ele gosta do clarão da lua, ele foi batizado como Tranca-Rua! (2x)  
 
@@ -273,7 +254,7 @@ Hoje a preferência é sua, a estrela que mais brilha é do amigo Tranca-Rua! (2
 
 ---
 
-### 23. Seu Tiriri (Rei da Encruza e da Calunga)
+### 22. Seu Tiriri (Rei da Encruza e da Calunga)
 Quando precisar é só chamar por mim:  
 Sou seu amigo e guardião, eu me chamo Tiriri! (2x)  
 
@@ -287,7 +268,7 @@ Confio em Tiriri, boto minha vida em suas mãos! (2x)
 
 ---
 
-### 24. Exu Capa Preta (Guardião da Calunga)
+### 23. Exu Capa Preta (Guardião da Calunga)
 Eu ouvi sua gargalhada na calunga,  
 Ecoou lá na encruza, estremeceu todas as tumbas!  
 Ele vem das almas, ele vem do cemitério,  
@@ -298,27 +279,27 @@ Eu chamei aquele Exu, Seu Capa Preta é Guardião! (2x)
 
 ---
 
-### 25. Exu no Terreiro é Rei
+### 24. Exu no Terreiro é Rei
 Tava na encruza curiando quando a banda me chamou. (2x)  
 Exu no terreiro é rei, na encruza ele é doutor! (2x)  
 Exu quebra a demanda, Exu é vencedor! (2x)  
 
 ---
 
-### 26. Exu Tiriri (Rei da Encruzilhada)
+### 25. Exu Tiriri (Rei da Encruzilhada)
 Exu Tiriri Ri Ri é o rei da encruzilhada,  
 Toma conta e presta conta no romper da madrugada!  
 
 ---
 
-### 27. Exu Maré (Marinheiro de Iemanjá)
+### 26. Exu Maré (Marinheiro de Iemanjá)
 Ele vem navegando no mar, lá no reino de Janaína... (2x)  
 Navegando, ele vem navegando, Exu Maré no mar vem chegando. (2x)  
 Ele vem navegando nas ondas do mar, ele é marinheiro da Mãe Iemanjá! (2x)  
 
 ---
 
-### 28. Exu Veludo (Vencendo Demanda)
+### 27. Exu Veludo (Vencendo Demanda)
 Exu Veludo chegou com sua cartola e sua capa! (2x)  
 Trabalho meia-noite, trabalho meio-dia,  
 Vencendo as demandas, desmanchando as bruxarias.  
@@ -330,7 +311,7 @@ Canta que você tem valor: Exu na encruzilhada, Exu Veludo é doutor! (2x)
 
 ---
 
-### 29. Exu Caveira (Fogo e Oração)
+### 28. Exu Caveira (Fogo e Oração)
 É, Caveira! Afirma ponto na folha da bananeira, Exu Caveira! (2x)  
 
 Quando o galo canta é madrugada, foi Exu na encruzilhada batizado com dendê.  
@@ -347,7 +328,7 @@ Portão de ferro, cadeado de madeira! (2x)
 
 ---
 
-### 30. A Falsidade é uma Folha Seca
+### 29. A Falsidade é uma Folha Seca
 A falsidade é uma folha seca que era verde mas se estragou.  
 Quem me abraçava quis me matar, estendi a mão, ninguém me ajudou.  
 Ai de mim se não fosse Exu com um barra vento que me livrou!  
@@ -357,7 +338,7 @@ Matei, matei, Cainana, eu matei! (2x)
 
 ---
 
-### 31. Seu Tranca-Rua (Dono da Rua)
+### 30. Seu Tranca-Rua (Dono da Rua)
 Seu Tranca-Rua, ele nasceu na rua, se criou na rua, na rua morreu!  
 Seu Tranca-Rua, Seu Tranca-Rua, Seu Tranca-Rua ainda é dono da rua!  
 
@@ -368,7 +349,7 @@ Com sua capa me livra do perigo, afastando os inimigos por onde quer que eu for.
 
 ---
 
-### 32. Exu Maré (Protetor da Porteira)
+### 31. Exu Maré (Protetor da Porteira)
 Maré, Maré... Vamos saudar esse Exu de fé! (2x)  
 
 É noite, é dia, não tem hora nem lugar,  

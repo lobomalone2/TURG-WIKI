@@ -1,14 +1,13 @@
 ---
 title: "Caboclo Rompe Mato"
-description: "Linha e forma de trabalho do Caboclo Rompe Mato, patrono do TURG."
+description: "Linha e forma de trabalho do Caboclo Rompe Mato no acervo de Ludi de Nanã."
 sidebar:
   order: 1
 ---
 
 # Caboclo Rompe Mato
 
-O Caboclo Rompe Mato é uma das entidades patronas do **Templo de Umbanda Caboclo Rompe
-Mato e Pai Guiné**, atuando na linha das matas.
+O Caboclo Rompe Mato é uma das falanges espirituais estudadas em **Ludi de Nanã**, atuando com força na linha das matas.
 
 ## Linha de Trabalho
 

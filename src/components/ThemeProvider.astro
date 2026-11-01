@@ -1,0 +1,19 @@
+---
+/**
+ * ThemeProvider.astro
+ * Garante que o tema seja estritamente 'dark' em todas as páginas,
+ * impedindo qualquer alternância para o modo claro.
+ */
+---
+
+<script is:inline>
+  window.StarlightThemeProvider = (() => {
+    try {
+      localStorage.setItem('starlight-theme', 'dark');
+    } catch (e) {}
+    document.documentElement.dataset.theme = 'dark';
+    return {
+      updatePickers() {},
+    };
+  })();
+</script>

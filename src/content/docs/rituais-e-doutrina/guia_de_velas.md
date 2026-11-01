@@ -1,11 +1,11 @@
 ---
 title: "Velas, suas Chamas, Queimas e Derretimentos"
-description: "Orientações gerais de conduta para os filhos de santo do TURG."
+description: "Guia de observação simbólica das chamas e queimas de velas no acervo de Ludi de Nanã."
 sidebar:
   order: 2
 ---
 
-**Autoria:** Mãe Ludi de Nanã (Estudos TURG)  
+**Autoria:** Mãe Ludi de Nanã  
 **Descrição:** Guia de observação simbólica para estudos espirituais.
 
 

@@ -1,8 +1,10 @@
 ---
 title: "Letras de Pontos de Exu e Pomba Gira"
-description: "Pontos de Exu e Pomba Gira"
+description: "Coletânea de pontos cantados de Exus e Pombagiras do acervo de Ludi de Nanã."
 sidebar:
   order: 2
+---
+
 # Coletânea de Pontos Cantados — Exus, Pombagiras e Entidades (Volume 2)
 
 ---
@@ -22,22 +24,7 @@ Atotô é Orixá.
 
 ---
 
-### 2. Omulu (Atotô das Almas)
-
-Seu Omulú a é!  
-Seu Omulú a á!  
-Atotô das Almas,  
-Seu Omulú a é. (2x)  
-
-Oi salve, salve, salve a calunga!  
-Salve, salve, salve a calunga! (2x)  
-
-Eu vinha caminhando,  
-Eu lhe pedi a benção...  
-
----
-
-### 3. Exu Sete das Almas (Irmão Quimbandeiro)
+### 2. Exu Sete das Almas (Irmão Quimbandeiro)
 
 Seu Sete, meu amigo de alma,  
 Seu Sete, meu irmão quimbandeiro.  
@@ -50,7 +37,7 @@ Oi, seu Sete!... (2x)
 
 ---
 
-### 4. Exu Sete das Almas (Comigo Ninguém Pode)
+### 3. Exu Sete das Almas (Comigo Ninguém Pode)
 
 Você botou o meu nome na boca de um bode,  
 Mas eu sou filho do seu Sete, comigo ninguém pode.  
@@ -59,7 +46,7 @@ Você botou, você mesmo vai tirar,
 
 ---
 
-### 5. Exu Veludo / Gira-Mundo
+### 4. Exu Veludo / Gira-Mundo
 
 Comigo ninguém pode,  
 Mas eu posso com tudo.  
@@ -73,23 +60,7 @@ Eu me chamo Gira-Mundo. (2x)
 
 ---
 
-### 6. Exu do Lodo
-
-Exu pequenininho,  
-Dele não faça pouco,  
-Olha lá que ele é Exu,  
-Ele é o Exu do Lodo. (2x)  
-
-Oi Exu do Lodo, você não é brincadeira,  
-Exu do Lodo, você mora na ladeira.  
-
-A capa pra Exu que eu mandei fazer  
-Não era p'ra Exu, é pra Bará Lodê.  
-Oi a capa pra Exu que eu mandei fazer...  
-
----
-
-### 7. Exu Destranca Rua / Bará da Rua
+### 5. Exu Destranca Rua / Bará da Rua
 
 Destranca Rua, destranca os meus caminhos,  
 Que foi trancado pelo Povo Pequenino. (2x)  
@@ -106,7 +77,7 @@ Sem cumprimentar o meu Bará da Rua. (2x)
 
 ---
 
-### 8. Exu Tiriri Lanã
+### 6. Exu Tiriri Lanã
 
 Exu Tiriri Lanã,  
 Lanã cadê o Tiriri?  
@@ -126,31 +97,7 @@ Quem é que vai dizer que o Tiriri não bebeu nada? (2x)
 
 ---
 
-### 9. Soltaram o Pombo lá na Mata
-
-Soltaram o pombo lá na mata,  
-Mas na pedreira não pousou,  
-Foi pousar na encruzilhada,  
-Seu Exu Rei foi quem mandou.  
-
-Foi pousar na encruzilhada,  
-Seu Gira Mundo quem mandou,  
-Foi pousar na encruzilhada,  
-Destranca Rua quem mandou.  
-
-Ena ena é mo jubá, é...  
-É mo jubá. (2x)  
-
-Soltaram o pombo lá na mata,  
-Mas na pedreira não pousou,  
-Foi pousar na encruzilhada,  
-Maria Padilha quem mandou,  
-Foi pousar na encruzilhada,  
-Maria Mulambo quem mandou...  
-
----
-
-### 10. Pedido de Ajuda na Encruzilhada
+### 7. Pedido de Ajuda na Encruzilhada
 Eu venho p'ra encruzilhada  
 Pedir uma ajuda sua. (2x)  
 
@@ -167,18 +114,7 @@ Sei que vão me defender, com vocês ninguém abusa. (2x)
 
 ---
 
-### 11. Povo do Mar
-Pescador... Pescador...  
-Cuidado!... Cuidado com as ondas do mar.  
-Hoje é dia de lua nova,  
-Dia do Povo do Mar...  
-
-Vem chegando Arerê,  
-Vem chegando Ererê... (2x)  
-
----
-
-### 12. Saudação a Exu Rei
+### 8. Saudação a Exu Rei
 Exu Rei é Exu formoso,  
 Da Coroa de Oxalá. (2x)  
 
@@ -195,7 +131,7 @@ Salve a Coroa de Oxalá. (2x)
 
 ---
 
-### 13. Saudação e Chamada de Zé Pelintra
+### 9. Saudação e Chamada de Zé Pelintra
 Oi Zé! Quando vem de Alagoas,  
 Toma cuidado com o balanço da canoa...  
 Oi Zé! Faça tudo o que quiser,  
@@ -213,7 +149,7 @@ Vai ficar lelé da cuca. (2x)
 
 ---
 
-### 14. Zé Pelintra (Seu Terninho Branco)
+### 10. Zé Pelintra (Seu Terninho Branco)
 Está vendo aquele moço  
 Sentado logo ali,  
 Todo de terninho branco,  
@@ -228,7 +164,7 @@ Ele é o Zé. (2x)
 
 ---
 
-### 15. Maria Padilha e Maria Mulambo
+### 11. Maria Padilha e Maria Mulambo
 É no espelho  
 Que eu vejo a minha dor,  
 E nos seus olhos  
@@ -252,7 +188,7 @@ Kalunguinha comenta que eu amo você. (2x)
 
 ---
 
-### 16. Maria Padilha das Almas
+### 12. Maria Padilha das Almas
 Abre essa cova, quero ver tremer,  
 No seu feitiço, quero ver quem vai mexer. (2x)  
 
@@ -263,7 +199,7 @@ O cemitério é o seu lugar.
 
 ---
 
-### 17. Pombagira das Sete Encruzilhadas
+### 13. Pombagira das Sete Encruzilhadas
 Quando ela vem girando,  
 Dançando e dando risada,  
 Cuidado amigo, que ela está  
@@ -274,7 +210,7 @@ Das Sete Encruzilhadas. (2x)
 
 ---
 
-### 18. Será Macumba?
+### 14. Será Macumba?
 Eu via a lua clareando a rua, ao luar,  
 Levava uma garrafa de marafo pro senhor Bará tomar.  
 Passou um homem, olhou e viu,  
@@ -285,19 +221,7 @@ Ou será mandinga de amor? (2x)
 
 ---
 
-### 19. Quando Deu Meia-Noite (Capa de Veludo)
-Laroyê Exu, Exu é mo jubá!  
-
-Sua capa de veludo,  
-Quando veio deixou lá.  
-Quando dava meia-noite,  
-Todo Exu ia buscar.  
-
-Ena mo jubá eee... (2x)  
-
----
-
-### 20. Seu Tranca Rua (Madeira que Não Dá Cupim)
+### 15. Seu Tranca Rua (Madeira que Não Dá Cupim)
 Seu Tranca Rua é uma beleza,  
 Eu nunca vi um Exu assim... (2x)  
 Seu Tranca Rua é uma beleza,  
@@ -305,7 +229,7 @@ Ele é madeira que não dá cupim. (2x)
 
 ---
 
-### 21. De Vermelho e Negro
+### 16. De Vermelho e Negro
 De vermelho e negro vestindo,  
 A noite o mistério traz.  
 De colar de conchas, brincos dourados,  
@@ -323,7 +247,7 @@ Girando, girando, girando lá...
 
 ---
 
-### 22. Exu Ventania
+### 17. Exu Ventania
 Deu meia-noite na terra e no mar!  
 No mato e na calunga, em todo lugar! (2x)  
 
@@ -337,7 +261,7 @@ Ventania!... (2x)
 
 ---
 
-### 23. Exu Caveira
+### 18. Exu Caveira
 Caveira, Caveirinha, no portão da meia-noite. (2x)  
 Aonde vai Exu, vai correr carreira,  
 Lá no cemitério ele é o Exu Caveira. (2x)  
@@ -350,7 +274,7 @@ O dono da calunga ainda é o Exu Caveira. (2x)
 
 ---
 
-### 24. Exu Maré
+### 19. Exu Maré
 Maré, Maré!... Vem do mar.  
 Maré, Maré!... Vem pra trabalhar. (2x)  
 
@@ -361,7 +285,7 @@ Que a maior calunga é a calunga do fundo do mar! (2x)
 
 ---
 
-### 25. Maria Molambo (Foi Você Quem Falou)
+### 20. Maria Molambo (Foi Você Quem Falou)
 Molambo, foi você quem falou,  
 Foi você quem falou que gostava de mim.  
 Maria Molambo, foi você quem falou,  
@@ -372,7 +296,7 @@ Deixe uma rosa pra mim. (2x)
 
 ---
 
-### 26. Pombagira Maria Molambo (Farrapos de Chita)
+### 21. Pombagira Maria Molambo (Farrapos de Chita)
 Mas que caminho tão escuro  
 Que vai passando aquela moça. (2x)  
 Com seus farrapos de chita,  
@@ -383,7 +307,7 @@ Pomba-Gira Maria Molambo é de coró, có có. (2x)
 
 ---
 
-### 27. Exu Mangueira
+### 22. Exu Mangueira
 Na batina do padre tem dendê, tem!  
 Tem dendê, na batina do padre tem dendê.  
 
@@ -393,7 +317,7 @@ Saravá Exu Mangueira! (2x)
 
 ---
 
-### 28. Exu Tranca Tudo
+### 23. Exu Tranca Tudo
 Ele é Exu formoso, sua capa é de veludo. (2x)  
 Ê, ê, ê, povo de ganga, vai chegar Seu Tranca Tudo.  
 
@@ -402,7 +326,7 @@ Trancou, trancou, ele vem trabalhar.
 
 ---
 
-### 29. Exu Marabô (Dono da Rua)
+### 24. Exu Marabô (Dono da Rua)
 Caminhei sem olhar para a lua. (2x)  
 Até que cheguei na minha morada,  
 Sou Marabô da encruzilhada,  
@@ -410,7 +334,7 @@ Sou um dos donos da rua. (2x)
 
 ---
 
-### 30. Exu Marabô Toquinho
+### 25. Exu Marabô Toquinho
 Ele é Marabô Toquinho,  
 Dono do canto da rua.  
 Ele quando pega demanda,  
@@ -419,7 +343,7 @@ Pedaço por pedacinho. (2x)
 
 ---
 
-### 31. Exu Tatá Caveira
+### 26. Exu Tatá Caveira
 Exu pisa no toco, Exu pisa no galho,  
 Galho balança Exu não cai, ó ganga.  
 É Exu, Exu pisa no toco de um galho só.  
@@ -434,7 +358,7 @@ Mas o reino é de Tatá Caveira. (2x)
 
 ---
 
-### 32. Exu Capa Preta
+### 27. Exu Capa Preta
 Capa Preta no reino é uma beleza. (2x)  
 Eu nunca vi um Exu assim,  
 Ele é madeira que não dá cupim.  
@@ -444,7 +368,7 @@ Ao ver Exu na encruza, com ele não se meta. (2x)
 
 ---
 
-### 33. Exu Sete Encruzilhadas / Sete Cruzes
+### 28. Exu Sete Encruzilhadas / Sete Cruzes
 Corre, corre, encruzilhadas, Sete Encruzas já chegou. (2x)  
 Na porta do cemitério ouvi uma gargalhada,  
 Sete Encruzas já chegou. (2x)  
@@ -456,7 +380,7 @@ Quebra demanda, quebra tudo. (2x)
 
 ---
 
-### 34. Cigana de Fé
+### 29. Cigana de Fé
 Vinha caminhando a pé,  
 Para ver se encontrava a minha Cigana de fé. (2x)  
 
@@ -467,7 +391,7 @@ A minha Cigana de fé. (2x)
 
 ---
 
-### 35. Maria Mulambo da Figueira
+### 30. Maria Mulambo da Figueira
 Maria Mulambo embaixo de uma figueira,  
 Ela sambava em cima de uma fogueira. (2x)  
 
@@ -476,7 +400,7 @@ E esperou seu Tranca Rua na primeira encruzilhada. (2x)
 
 ---
 
-### 36. Exu Tranca-Ruas Imbaié
+### 31. Exu Tranca-Ruas Imbaié
 Oi viva as almas,  
 Oi viva a coroa e a fé,  
 Oi viva Exu das Almas,  
@@ -485,7 +409,7 @@ Oi viva as almas!
 
 ---
 
-### 37. Exu Dama da Noite
+### 32. Exu Dama da Noite
 Pomba Gira girou porque já chegou,  
 Ninguém pode com ela, Pai de Santo saudou. (2x)  
 
@@ -494,7 +418,7 @@ Ela anda a noite inteira à espera de um amor.
 
 ---
 
-### 38. Seu Sete em Batalha
+### 33. Seu Sete em Batalha
 Com as almas do cruzeiro e a Coroa de Oxalá,  
 Defendendo os oprimidos, Seu Sete vai batalhar. (2x)  
 
@@ -503,7 +427,7 @@ Com as armas da caridade e a Bandeira de Oxalá. (2x)
 
 ---
 
-### 39. Pontos de Subida de Exu
+### 34. Pontos de Subida de Exu
 Cambono, camboninho meu cambono,  
 Olha que Exu vai oló. (2x)  
 Vai, vai, vai, meu cambono,  

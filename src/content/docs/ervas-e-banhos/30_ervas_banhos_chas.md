@@ -8,7 +8,7 @@ sidebar:
 # Estudo da Direita: 30 Ervas, Banhos e Chás
 
 **Autoria:** Mãe Ludi de Nanã  
-**Fonte:** Estudos TURG — 30 ervas para banhos e chás  
+**Fonte:** Acervo Ludi de Nanã — 30 ervas para banhos e chás  
 
 ---
 

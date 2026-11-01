@@ -1,6 +1,6 @@
 ---
 title: "Fundamento do Chão: Por que tocar no solo 3 vezes?"
-description: "Orientações gerais de conduta para os filhos de santo do TURG."
+description: "Fundamento do solo e o significado ritual de saudar o chão 3 vezes — Ludi de Nanã."
 sidebar:
   order: 2
 ---

@@ -1,10 +1,9 @@
 ---
 title: "Pontos cantados de Gira de Direita"
-description: "Pontos de entidades de esquerda"
+description: "Coletânea de pontos cantados de giras de direita do acervo de Ludi de Nanã."
 sidebar:
   order: 2
 ---
-
 
 # Coletânea de Pontos Cantados — Giras de Direita na Umbanda
 
@@ -22,11 +21,7 @@ Saia do meio da samambaia!
 Arreia, caboclo, não se atrapalha,  
 Saia do meio da samambaia!  
 
-**2. Seu Pena Branca**  
-Um grito na mata ecoou,  
-Foi Seu Pena Branca que chegou!  
-
-**3. Caboclo Roxo**  
+**2. Caboclo Roxo**  
 Caboclo roxo, da pele morena,  
 Ele é Oxóssi caçador lá na Jurema.  
 Caboclo roxo, da pele morena,  
@@ -34,7 +29,7 @@ Ele é Oxóssi caçador lá na Jurema.
 Ele jurou e tornou a jurar,  
 Ao ouvir os mandamentos que a Jurema mandou dar!  
 
-**4. Caboclo Tupinambá**  
+**3. Caboclo Tupinambá**  
 Tava na beira do rio,  
 Sem poder atravessar...  
 Chamei pelos caboclos, Caboclo Tupinambá!  
@@ -43,7 +38,7 @@ Chamei, tornei chamar, ê-ah!
 Tupinambá chamei,  
 Chamei, tornei chamar, ê-ah!  
 
-**5. Cabocla Jurema**  
+**4. Cabocla Jurema**  
 Com seu saiote feito de penas,  
 Era a Jurema, filha de Tupi (2x).  
 Jurema, Jurema, Jurema,  
@@ -51,7 +46,7 @@ Jurema, Jurema, Jurema,
 Ela vem lá da Jurema,  
 Vem firmar seu ponto nesse congá!  
 
-**6. Folha Caiu Serena**  
+**5. Folha Caiu Serena**  
 Ô Juremê, ô Jurema,  
 Sua folha caiu serena, ô Jurema,  
 Dentro desse congá! (2x)  
@@ -60,20 +55,20 @@ Dentro desse congá! (2x)
 
 ### Baianos
 
-**7. Ponto Baiano (Dança Catira)**  
+**6. Ponto Baiano (Dança Catira)**  
 Afirma ponto baiano que eu quero ver,  
 Dança catira no azeite de dendê!  
 Eu quero ver a baianada de Aruanda,  
 Trabalhando na Umbanda pra demanda não vencer! (2x)  
 
-**8. Porteira Velha**  
+**7. Porteira Velha**  
 Balança porteira velha,  
 Porteira balanceou.  
 Balança porteira velha, que os baianos saravou!  
 Galo cantou, cantou de madrugada (2x)  
 Oi tá na hora, na hora da baianada! (2x)  
 
-**9. Na Ponta do Meu Facão**  
+**8. Na Ponta do Meu Facão**  
 Quem quiser brigar comigo ou tá doido ou tá danado! (2x)  
 Na ponta do meu facão inimigo fica vingado! (2x)  
 Bahia, ó África, vem cá, vem nos ajudar!  
@@ -81,26 +76,11 @@ Bahia, ó África, vem nos ajudar!
 Força baiana, força africana,  
 Força divina, vem nos ajudar!  
 
-**10. Bahia do Senhor do Bonfim**  
-Ôôô Bahia, Bahia do meu Senhor do Bonfim,  
-Ôôô Bahia, peça a Oxalá por mim!  
-Baiana da saia rendada...  
-
 ---
 
 ### Boiadeiros
 
-**11. Lá Vem Seu Boiadeiro**  
-Dai-me licença para um cavaleiro,  
-Com seu chapéu de couro, com seu laço na mão...  
-Lá vem seu boiadeiro chegando do sertão!  
-Com seu chapéu de couro, com seu laço na mão,  
-Lá vem seu boiadeiro chegando do sertão!  
-Corre campina, vem trabalhar,  
-Filho que está perdido, boiadeiro vai buscar! (2x)  
-Seu boiadeiro, filho da Virgem Maria...  
-
-**12. Xetruá Boiadeiro**  
+**9. Xetruá Boiadeiro**  
 Ajudar filho de pemba a sair da escuridão!  
 Ele é de Xetruá, ele é de Xetruê,  
 Chama seu boiadeiro que ele vem lhe socorrer! (2x)  
@@ -111,7 +91,7 @@ Ele ama os seus filhos como ama sua boiada! (2x)
 
 ### Pretos Velhos
 
-**13. Pai José de Aruanda**  
+**10. Pai José de Aruanda**  
 Um grito de liberdade, um grito me acordou,  
 Dentro de um canavial, um negro se libertou!  
 E lá não tinha pra ele nem chibata e nem feitor,  
@@ -121,7 +101,7 @@ Hoje baixa no terreiro, traz a paz e o amor!
 Sua sabedoria, seus ensinamentos, (2x)  
 Vão de canto a canto aliviando o sofrimento! (2x)  
 
-**14. Pai Cipriano**  
+**11. Pai Cipriano**  
 Viva Deus Nosso Senhor!  
 Segura com fé na mão de Cipriano,  
 Pra colher flores ou espinhos retirar.  
@@ -130,18 +110,12 @@ O brilho da estrela guia, a bênção de Oxalá!
 Se o caminho é de paz, Cipriano é amor,  
 Vou segurar com fé na mão do meu vovô!  
 
-**15. Vovó Cambinda**  
+**12. Vovó Cambinda**  
 Vovó não quer casca de coco no terreiro...  
 Vovó Cambinda é de Guiné (2x).  
 Fio, se suncê precisá, é só pensá na Vovó que Ela vem te ajudá! (2x)  
 
-**16. Vovó Maria Redonda**  
-Pensa numa estrada longa, zifio, lá no seu jacutá,  
-E numa casinha branca, zifio, que a vovó tá lá.  
-Sentada num banquinho tosco, zifio, com sua rosária na mão,  
-Pensa na Vovó Maria Redonda fazendo oração.  
-
-**17. Vovó Maria Conga**  
+**13. Vovó Maria Conga**  
 Na sua saia ela diz que tem mironga,  
 Maria Conga é quem vence a demanda!  
 Na sua saia ela diz que tem mironga...  
@@ -152,7 +126,7 @@ No seu terreiro é ela quem vence demanda! (2x)
 
 ### Marinheiros
 
-**18. Marinheiro Só**  
+**14. Marinheiro Só**  
 Eu não sou daqui, Marinheiro só!  
 Eu não tenho amor, Marinheiro só!  
 Eu sou da Bahia, de São Salvador...  
@@ -163,7 +137,7 @@ Com seu bonezinho, Marinheiro só!
 Quem te ensinou a nadar? Marinheiro só!  
 Ou foi tombo no navio? Marinheiro só!  
 
-**19. Minha Jangada**  
+**15. Minha Jangada**  
 Minha jangada vai sair pro mar,  
 Vou trabalhar, meu bem-querer.  
 Se Deus quiser, quando eu voltar do mar,  
@@ -175,11 +149,11 @@ E a Deus do céu vamos agradecer!
 
 ### Erês (Ibejada)
 
-**20. Caruru de Mamãe**  
+**16. Caruru de Mamãe**  
 Gostei foi do caruru que a mamãe mandou preparar!  
 Mamãe me deu caruru, eu comi o caruru de mamãe! (4x)  
 
-**21. Doce no Jardim**  
+**17. Doce no Jardim**  
 Papai me manda um balão,  
 Aí com todas crianças que tem lá no céu!  
 Tem doce, mãe! Tem doce, mãe!  
