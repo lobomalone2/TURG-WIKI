@@ -6,10 +6,6 @@ sidebar:
 ---
 
 
-# Guia de Fundamentos Espirituais
-
----
-
 ## 🏺 1. O Fundamento da Quartinha
 Na nossa casa, a quartinha é a representação viva do médium. Ela é como um "para-raios" ou um filtro. A água em seu interior absorve energias densas e mantém o seu equilíbrio espiritual conectado com o sagrado. Ela não é o assentamento do Orixá em si, mas sim a sua representação dentro do axé da casa.
 
